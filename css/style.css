@@ -80,7 +80,7 @@ header .formulario button{
 }
 
 header .formulario button:hover{
-    background-color: var(--cor2);
+    background-color: var(--cor1_alfa);
 }
 
 /* main */
